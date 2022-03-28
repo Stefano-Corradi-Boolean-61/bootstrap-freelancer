@@ -1,0 +1,50 @@
+/* debug */
+.debug{
+  background-color: rgba(47, 79, 79, .2);
+  border: 1px solid black;
+}
+.min-h-300{
+  min-height: 300px;
+}
+/* /debug */
+
+
+
+/*
+  GENERAL
+*/
+.sc-container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+/*
+  HEADER
+*/
+header{
+  height: 80px;
+}
+header nav{
+  height: 100%;
+}
+header nav .row{
+  height: 100%;
+}
+
+/*
+  JUMBOTRON
+*/
+.jumbotron{
+  height: 500px;
+}
+/*
+  MAIN
+*/
+
+.sc-card{
+  height: 250px; /* ??? */
+}
+/*
+  FOOTER
+*/
